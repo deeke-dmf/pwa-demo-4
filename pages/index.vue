@@ -8,7 +8,7 @@
                             {{ t('hubble PWA') }}
                         </h1>
                         <h2 class="font-title text-lg font-extrabold sm:text-2xl lg:text-3xl">
-                            The interface for your headless E-Commerce Platform
+                            DEMO - The interface for your headless E-Commerce Platform
                         </h2>
                     </div>
                     <div class="flex w-full flex-col items-center space-y-10 lg:flex-row lg:items-start lg:space-x-4 lg:space-y-0">
